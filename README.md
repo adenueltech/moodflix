@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# moodflix
+>>>>>>> 66a69d1953e1c39e31c86cc040bf0f2d6fd480ec
 # MoodFlix - Mood-Based Movie Discovery App
 
 MoodFlix is a web application that helps users discover movies based on their current mood. It integrates with YouTube to allow users to watch movie trailers and full movies directly.
@@ -78,3 +82,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Tailwind CSS for styling
 - Framer Motion for animations
 - shadcn/ui for UI components
+<<<<<<< HEAD
+=======
+
+>>>>>>> 66a69d1953e1c39e31c86cc040bf0f2d6fd480ec
